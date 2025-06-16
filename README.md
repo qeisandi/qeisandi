@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/qeisandi145116" target="blank"><img src="https://img.shields.io/twitter/follow/qeisandi145116?logo=twitter&style=for-the-badge" alt="qeisandi145116" /></a> </p>
 
+- 🌱 I’m currently learning **mobile apps**
+
+- 💬 Ask me about **ui ux and desgin editing**
+
 - 📫 How to reach me **qeis.andi@gmail.com**
 
 - ⚡ Fun fact **i think i can do every thing**
