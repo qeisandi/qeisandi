@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100" />
 <h1 align="center">Hello 👋, I'm Andi Muhammad Tsabit Qeis</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
