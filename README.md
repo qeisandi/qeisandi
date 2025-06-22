@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Andi MUhammad Tsabit Qeis</h1>
+<h1 align="center">Hello 👋, I'm Andi Muhammad Tsabit Qeis</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Flutter, Dart, and improving my skills in Python (Data Analysis), HTML & CSS**
