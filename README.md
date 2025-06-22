@@ -1,4 +1,5 @@
-<img src="https://www.vecteezy.com/png/1195702-speech-bubbles-pixel-welcome" width="120" alt="Welcome">
+<img src="https://pngtree.com/freepng/welcome-text-on-wooden-plank-sign-pixel" width="150" alt="Welcome">
+
 <h1 align="center">Hello 👋, I'm Andi Muhammad Tsabit Qeis</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
