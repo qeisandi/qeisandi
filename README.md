@@ -1,6 +1,3 @@
-<img src="https://cdn.vectorstock.com/i/preview-70/76/30283/pixel-art-speech-bubble-text-saying-welcome-8-bit-vector-27630283.jpg" width="120" alt="Welcome speech bubble"/>
-
-
 <h1 align="center">Hello 👋, I'm Andi Muhammad Tsabit Qeis</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
