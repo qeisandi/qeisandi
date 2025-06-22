@@ -1,7 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://www.vecteezy.com/png/1195702-speech-bubbles-pixel-welcome" width="120" alt="Welcome">
 <h1 align="center">Hello 👋, I'm Andi Muhammad Tsabit Qeis</h1>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Flutter, Dart, and improving my skills in Python (Data Analysis), HTML & CSS**
