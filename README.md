@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter basics, HTML & CSS layouting, and getting started with Python for data**
 
-- 📫 How to reach me **qeis.andi@gmail.com**
+- 📫 How to reach me **qeis.andi02@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/qeis-andi-67a895364/](https://www.linkedin.com/in/qeis-andi-67a895364/)
 
