@@ -14,15 +14,15 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,figma,html,css,js,python,cpp,java,mysql,git,github,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qeisandi&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qeisandi&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qeisandi&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=qeisandi&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
